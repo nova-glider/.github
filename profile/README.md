@@ -1,3 +1,5 @@
-# NovaCan
+# NovaGlider
 
-The place to be for all NovaCan's source code.
+The place to be for all NovaGlider's source code.
+
+(formerly NovaCan)
